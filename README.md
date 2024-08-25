@@ -1,2 +1,2 @@
-# destopai
+# desktopai
 in progress....
